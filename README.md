@@ -1,4 +1,4 @@
-# Bluengo Simple Worker
+## Bluengo Simple Worker
 Poor's man, yet effective, job queue/worker. Should run fine as is in modern Linux releases.
 
 **See our office webcam at [https://www.bluengo.com](https://www.bluengo.com)**
